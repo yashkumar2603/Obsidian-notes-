@@ -1,0 +1,11 @@
+{
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-popout": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ]
+}
